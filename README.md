@@ -12,7 +12,7 @@
 * 菅田将晖
 * 宋旻浩
 
-学过的编程语言有 `HTML` `CSS` `JavaScript``Python``Java`。我写一段给你瞧瞧吧
+学过的编程语言有 `HTML` `CSS` `JavaScript` `Python` `Java`。我写一段给你瞧瞧吧
 
 ```javascript
 var a = 1
